@@ -195,7 +195,7 @@ pyrightconfig.json
 .history
 .ionide
 
-raw_txt/*
+/raw_txt/*
 
 #tmp
 tmp/
