@@ -21,7 +21,7 @@
 
 ## 用法
 
-因為完成的db檔案超出github的上傳上限，所以請從我個人的[google雲端硬碟]()下載。
+因為完成的db檔案超出github的上傳上限，所以請從我個人的[google雲端硬碟](https://drive.google.com/file/d/1wcARfqmAPXYOcuY7RqqO8l67VHGzw98b/view?usp=sharing)下載。
 而如果要自己重build資料庫，請從[司法院資料開放平臺](https://opendata.judicial.gov.tw/)下載「司法院及所屬各級法院之終結案件資料」，並將資料放在raw_txt資料夾中。
 
 
