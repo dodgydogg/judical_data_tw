@@ -1,4 +1,12 @@
 {
     "python.analysis.autoImportCompletions": true,
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "district_cases",
+            "database": "${workspaceFolder:judical_data_tw}/cases.db"
+        }
+    ]
 }

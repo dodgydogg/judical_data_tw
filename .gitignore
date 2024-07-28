@@ -201,7 +201,7 @@ pyrightconfig.json
 tmp/
 
 *.csv
-
+*.rds
 *.db
 
 
