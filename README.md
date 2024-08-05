@@ -26,8 +26,12 @@
 link_db_json.ipynb可用來將個別案件資料連上判決書全文，目前雲端上傳的的地院刑事案件資料庫已經連結完判決全文（所以檔案很龐大）。
 
 因為完成的db檔案超出github的上傳上限，所以請從我個人的[google雲端硬碟](https://drive.google.com/file/d/1wcARfqmAPXYOcuY7RqqO8l67VHGzw98b/view?usp=sharing)下載。
+
+
 [地方法院](https://drive.google.com/file/d/1wcARfqmAPXYOcuY7RqqO8l67VHGzw98b/view?usp=sharing)
 [高等法院](https://drive.google.com/file/d/12i_6473geYn_dCMXcOVZWg_Kqtz3PGMD/view?usp=sharing)
+
+
 而如果要自己重build資料庫，請從[司法院資料開放平臺](https://opendata.judicial.gov.tw/)下載「司法院及所屬各級法院之終結案件資料」，並將資料放在raw_txt資料夾中。
 
 
