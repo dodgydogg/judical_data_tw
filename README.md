@@ -25,7 +25,7 @@
 司法院提供的txt檔是big5編碼，建議先透過encoding.ipynb將資料轉成utf-8編碼。
 link_db_json.ipynb可用來將個別案件資料連上判決書全文，目前雲端上傳的的地院刑事案件資料庫已經連結完判決全文（所以檔案很龐大）。
 
-因為完成的db檔案超出github的上傳上限，所以請從我個人的[google雲端硬碟](https://drive.google.com/file/d/1wcARfqmAPXYOcuY7RqqO8l67VHGzw98b/view?usp=sharing)下載。
+因為完成的db檔案超出github的上傳上限，所以請從我個人的google雲端硬碟下載。
 
 
 [地方法院](https://drive.google.com/file/d/1wcARfqmAPXYOcuY7RqqO8l67VHGzw98b/view?usp=sharing)
